@@ -1,0 +1,130 @@
+<mjml>
+  <mj-head>
+    <mj-title>Co-Working Space & Study Hub</mj-title>
+    <mj-preview>Discover the perfect co-working space and study hub for productivity and collaboration</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333" line-height="1.6" />
+    </mj-attributes>
+    <mj-style>
+      .full-width-img {
+        width: 100% !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f8f9fa">
+    <!-- Header with Logo -->
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+        <mj-image src="https://lh3.googleusercontent.com/d/1gUPxxaOP7Us3AfGfy0jfh2f9Ifyf7yZ8" alt="StudyHub Logo" width="200px" align="center" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-color="#0d47a1" padding="60px 20px" border-radius="20px">
+      <mj-column>
+        <mj-text font-size="42px" color="#ffffff" align="center" font-weight="bold" line-height="1.2">
+          Your Perfect Co-Working Space & Study Hub
+        </mj-text>
+        <mj-text font-size="20px" color="#ffffff" align="center" padding="20px 0">
+          Boost your productivity in our modern, collaborative environment
+        </mj-text>
+        <mj-button background-color="#64b5f6" color="#0d47a1" font-size="18px" padding="20px 40px" border-radius="30px" href="#" font-weight="bold">
+          Book Your Space Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product Showcase -->
+    <mj-section background-color="#ffffff" padding="40px 20px">
+      <mj-column>
+        <mj-image src="https://lh3.googleusercontent.com/d/1QkAY0zOXNlXbI73jnfyuJI2FKsRqxu7x" alt="Shared Co-Working Space" css-class="full-width-img" border-radius="15px" />
+        <mj-text font-size="28px" align="center" font-weight="bold" padding="30px 0 20px">
+          Why Choose Co-Working Space & Study Hub?
+        </mj-text>
+        <mj-text font-size="18px" align="center" padding="0 0 30px">
+          Experience a vibrant community of professionals and students in our state-of-the-art facility.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Features Grid -->
+    <mj-section background-color="#e3f2fd" padding="30px 20px">
+      <mj-column>
+        <mj-text font-size="24px" align="center" font-weight="bold" color="#333" padding="0">
+          Amenities
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image src="https://lh3.googleusercontent.com/d/1ABemjUxWx88GPdBs7cbvXf5TZJTRWRez" alt="Conference Room" width="150px" align="center" />
+        <mj-text font-size="18px" align="center" font-weight="bold" padding="20px 0 10px">
+          Meeting Rooms
+        </mj-text>
+        <mj-text align="center">
+          Fully equipped conference rooms for your business meetings and presentations.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image src="https://lh3.googleusercontent.com/d/1vbRYP7yj2rvcWtC5VyvvQXCnXY2L-INq" alt="Drafting Table" width="150px" align="center" />
+        <mj-text font-size="18px" align="center" font-weight="bold" padding="20px 0 10px">
+          Drafting Tables
+        </mj-text>
+        <mj-text align="center">
+          Dedicated drafting tables for architects, designers, and creative professionals.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image src="https://lh3.googleusercontent.com/d/16Lz6WGB564S-mvCwAlyb-iLYpk9DN4yz" alt="Cozy Place" width="150px" align="center" />
+        <mj-text font-size="18px" align="center" font-weight="bold" padding="20px 0 10px">
+          Cozy Place
+        </mj-text>
+        <mj-text align="center">
+          Comfortable seating areas perfect for relaxation and casual meetings.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Social Proof -->
+    <mj-section background-color="#f8f9fa" padding="40px 20px">
+      <mj-column>
+        <mj-text font-size="24px" align="center" font-weight="bold" padding="0 0 20px">
+          Loved by Our Community
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#666">
+          "This place transformed my work-life balance. I am more productive here!" - JD, Software Engineer
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Call to Action -->
+    <mj-section background-color="#0d47a1" padding="50px 20px" border-radius="20px">
+      <mj-column>
+        <mj-text font-size="28px" color="#ffffff" align="center" font-weight="bold">
+          Study Here Today!
+        </mj-text>
+        <mj-text font-size="18px" color="#ffffff" align="center" padding="20px 0">
+          Start for as low as P40/hr. Limited spots available!
+        </mj-text>
+        <mj-button background-color="#90caf9" color="#0d47a1" font-size="20px" padding="25px 50px" border-radius="35px" href="#" font-weight="bold">
+          Reserve Your Spot
+        </mj-button>
+        <mj-text font-size="14px" color="#ffffff" align="center" padding="20px 0 0">
+          Offer valid for new members only
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#ffffff" padding="30px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#666">
+          © 2025 Co-Working Space & Study Hub. All rights reserved.<br>
+          <a href="#" style="color: #0d47a1;">Unsubscribe</a> | <a href="#" style="color: #0d47a1;">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
